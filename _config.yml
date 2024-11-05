@@ -11,6 +11,7 @@ baseurl: "" # Keep this empty for GitHub Pages
 url: "https://wk-cof.github.io/concept-home-renovation" # Actual GitHub Pages URL
 twitter_username: "concepthrv" # Replace if applicable
 github_username: "wk-cof"
+source: src
 
 # Build settings
 theme: minima
