@@ -15,6 +15,4 @@ Concept Home Renovation specializes in transforming homes with skill, precision,
 
 > Bringing your vision to life with quality and care.
 
-[Learn More About Our Services](/services)
-
-Have a project in mind? [Contact us](mailto:concepthrv@gmail.com) today to get started.
+[Learn More About Our Services](/services){: .button }

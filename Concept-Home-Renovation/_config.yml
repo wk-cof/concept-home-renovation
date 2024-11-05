@@ -30,3 +30,4 @@ exclude:
 email: "concepthrv@gmail.com"
 phone: "+1-234-567-8900" # Replace with actual phone number if available
 address: "1234 Renovation Ave, Springfield, USA" # Replace with actual address if applicable
+markdown: kramdown

@@ -1,0 +1,53 @@
+:root {
+    --primary-color: #2c3e50; /* Dark Blue */
+    --secondary-color: #bdc3c7; /* Light Gray */
+    --accent-color: #e67e22; /* Orange for buttons/links */
+    --background-color: #ecf0f1; /* Light Background */
+    --text-color: #333; /* Dark Text */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: var(--primary-color);
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button, .button {
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: filter 0.3s ease;
+}
+
+button:hover, .button:hover {
+    filter: brightness(0.9); /* Darkens the button color */
+}
+
+section {
+    padding: 2em;
+    margin: 0;
+}
+
+.section-alt {
+    background-color: var(--secondary-color);
+}
