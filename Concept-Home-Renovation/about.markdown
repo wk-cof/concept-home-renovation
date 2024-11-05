@@ -1,18 +1,15 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: "About Us"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Concept Home Renovation
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+With years of experience and a passion for excellence, Concept Home Renovation takes pride in delivering high-quality home transformations. Our team works with you every step of the way, ensuring that your vision becomes reality.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Why Choose Us?
+- **Proven Track Record**: We’ve completed numerous projects with outstanding results.
+- **Customer-Centric**: We listen, understand, and make your needs a priority.
+- **Value and Quality**: We balance fair pricing with top-notch work.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Our clients value our dedication to clear communication, reliability, and results that stand the test of time.

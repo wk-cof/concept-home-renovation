@@ -1,6 +1,20 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: "Home"
 ---
+
+# Welcome to Concept Home Renovation
+
+Concept Home Renovation specializes in transforming homes with skill, precision, and dedication. Whether it's a full house renovation or a targeted project, we deliver high-quality craftsmanship and trusted expertise that homeowners value.
+
+## Our Services
+- **Kitchen Remodeling**
+- **Bathroom Renovations**
+- **Basement Finishing**
+- **Whole Home Transformations**
+
+> Bringing your vision to life with quality and care.
+
+[Learn More About Our Services](/services)
+
+Have a project in mind? [Contact us](mailto:concepthrv@gmail.com) today to get started.
