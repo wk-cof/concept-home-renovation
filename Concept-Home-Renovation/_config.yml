@@ -1,0 +1,32 @@
+# Site settings
+title: "Concept Home Renovation"
+description: >-
+  Concept Home Renovation is a trusted general contractor specializing in full house renovations. 
+  Known for quality craftsmanship, a solid track record, and fair pricing, we bring expertise and dedication 
+  to every project, whether it’s a kitchen remodel, bathroom update, or whole-home transformation. 
+  Our clients appreciate our attention to detail and clear communication, and many are happy to share 
+  their positive experiences working with us. Let us help you create a space that reflects your style and needs, 
+  with professionalism you can count on.
+baseurl: "" # Keep this empty for GitHub Pages
+url: "https://wk-cof.github.io/concept-home-renovation" # Actual GitHub Pages URL
+twitter_username: "concepthrv" # Replace if applicable
+github_username: "wk-cof"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed # Provides an RSS feed
+
+# Exclude files and folders from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+
+# Custom settings
+email: "concepthrv@gmail.com"
+phone: "+1-234-567-8900" # Replace with actual phone number if available
+address: "1234 Renovation Ave, Springfield, USA" # Replace with actual address if applicable
