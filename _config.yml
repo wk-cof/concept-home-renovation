@@ -14,7 +14,7 @@ github_username: "wk-cof"
 source: src
 
 # Build settings
-theme: Dinky
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed # Provides an RSS feed
 
