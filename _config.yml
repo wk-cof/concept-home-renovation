@@ -14,7 +14,8 @@ github_username: "wk-cof"
 source: src
 
 # Build settings
-theme: jekyll-theme-hacker
+# theme: minima
+remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed # Provides an RSS feed
 
@@ -29,6 +30,6 @@ exclude:
 
 # Custom settings
 email: "concepthrv@gmail.com"
-phone: "+1-234-567-8900" # Replace with actual phone number if available
-address: "1234 Renovation Ave, Springfield, USA" # Replace with actual address if applicable
+phone: "+1 (203) 427-7968"
+# address: "1234 Renovation Ave, Springfield, USA"
 markdown: kramdown
