@@ -2,6 +2,8 @@
 layout: default
 title: "Home"
 ---
+   
+   
 
 # Welcome to Concept Home Renovation
 
@@ -15,4 +17,4 @@ Concept Home Renovation specializes in transforming homes with skill, precision,
 
 > Bringing your vision to life with quality and care.
 
-[Learn More About Our Services](/services){: .button }
+[Learn More About Our Services](/services){: .btn }

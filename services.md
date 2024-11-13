@@ -9,17 +9,14 @@ Concept Home Renovation offers a range of renovation services tailored to meet t
 
 ## Kitchen Remodeling
 Transform your kitchen into a functional and beautiful space with our expert remodeling services.
-{:.section-alt}
 
 ## Bathroom Renovations
 Update your bathroom to create a relaxing, stylish retreat, customized to your preferences.
 
 ## Basement Finishing
 Maximize your home’s potential by turning your basement into a useful, enjoyable living area.
-{:.section-alt}
 
 ## Whole Home Transformations
 Considering a full-house renovation? We handle everything from design to finishing touches.
 
-Contact us to start planning your renovation and turn your vision into reality!
-{:.section-alt}
+[Contact us to get started today!](mailto:concepthrv@gmail.com)

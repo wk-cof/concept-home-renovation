@@ -5,7 +5,7 @@
 # to a temporary file for easy reference.
 
 # Define the directories to include
-dirs=("src" "src/_includes" "src/assets")
+dirs=("." "_includes" "assets/css", "_layouts")
 
 # Define the temporary file to store output
 temp_file="/tmp/website_source_output.txt"
