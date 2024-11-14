@@ -8,11 +8,10 @@ url: "https://wk-cof.github.io/concept-home-renovation/" # Actual GitHub Pages U
 twitter_username: "concepthrv"
 
 # Theme settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/slate
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
 
 # Contact Information
