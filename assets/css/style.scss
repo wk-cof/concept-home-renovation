@@ -1,5 +1,88 @@
 ---
 ---
 
+// Import theme styles
 @import "{{ site.theme }}";
 
+// Header container styling
+.header-container {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1rem;
+    background-color: #f4f4f4;  // Subtle light background to differentiate header
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); // Soft shadow for an elegant touch
+}
+
+// Links styling
+.header-container a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #333;  // Neutral dark color to match an elegant theme
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+    padding-bottom: 0.2rem;
+    border-bottom: 2px solid transparent;  // Prevent shifting by reserving space for underline
+}
+
+// Hover effect for links
+.header-container a:hover {
+    color: #007acc;  // Use a primary color from the theme for emphasis
+    border-bottom: 2px solid #007acc;  // Elegant underline effect on hover
+}
+
+// Active link styling (optional - if needed for navigation clarity)
+.header-container a:active {
+    color: #005a99;  // Slightly darker shade for clicked links
+}
+
+// Responsive header
+@media (max-width: 768px) {
+    .header-container {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 0.5rem;
+    }
+} 
+
+.thumbnail {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .thumbnail:hover {
+    transform: scale(1.1);
+  }
+
+  .carousel {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding: 10px 0;
+    scroll-behavior: smooth;
+  }
+  
+  .thumbnail {
+    flex: 0 0 auto;
+    width: 150px;
+    height: auto;
+    transition: transform 0.2s;
+    cursor: pointer;
+  }
+  
+  .thumbnail:hover {
+    transform: scale(1.1);
+  }
+  
+  .carousel::-webkit-scrollbar {
+    height: 8px;
+  }
+  
+  .carousel::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+  }
+  

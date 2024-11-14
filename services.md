@@ -18,5 +18,3 @@ Maximize your home’s potential by turning your basement into a useful, enjoyab
 
 ## Whole Home Transformations
 Considering a full-house renovation? We handle everything from design to finishing touches.
-
-[Contact us to get started today!](mailto:concepthrv@gmail.com)
