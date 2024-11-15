@@ -13,14 +13,14 @@ Explore our past projects and see how we've brought our clients' visions to life
 A whole-home renovation project that modernized every room, improved energy efficiency, and enhanced comfort.
 
 <div class="carousel">
-  <a href="/assets/images/gorbachev-residence/kitchen-1.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/kitchen-1.jpg" alt="Gorbachev Full Home Renovation - Kitchen" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/kitchen-2.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/kitchen-2.jpg" alt="Gorbachev Full Home Renovation - Kitchen" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/bath-1.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-1.jpg" alt="Gorbachev Full Home Renovation - Bath 1" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/bath-2.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-2.jpg" alt="Gorbachev Full Home Renovation - Bath 2" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/bath-3.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-3.jpg" alt="Gorbachev Full Home Renovation - Bath 3" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/closet.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/closet.jpg" alt="Gorbachev Full Home Renovation - Closet" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/living_room.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/living_room.jpg" alt="Gorbachev Full Home Renovation - Living Room" class="thumbnail"></a>
-  <a href="/assets/images/gorbachev-residence/stairs_landing.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/stairs_landing.jpg" alt="Gorbachev Full Home Renovation - Stairs Landing" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/kitchen-1.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/kitchen-1.jpg" alt="Gorbachev Full Home Renovation - Kitchen" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/kitchen-2.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/kitchen-2.jpg" alt="Gorbachev Full Home Renovation - Kitchen" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/bath-1.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-1.jpg" alt="Gorbachev Full Home Renovation - Bath 1" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/bath-2.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-2.jpg" alt="Gorbachev Full Home Renovation - Bath 2" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/bath-3.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/bath-3.jpg" alt="Gorbachev Full Home Renovation - Bath 3" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/closet.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/closet.jpg" alt="Gorbachev Full Home Renovation - Closet" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/living_room.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/living_room.jpg" alt="Gorbachev Full Home Renovation - Living Room" class="thumbnail"></a>
+  <a href="{{ site.baseurl }}/assets/images/gorbachev-residence/stairs_landing.jpg" target="_blank"><img src="/assets/images/gorbachev-residence/stairs_landing.jpg" alt="Gorbachev Full Home Renovation - Stairs Landing" class="thumbnail"></a>
 </div>
 
 ### [Kitchen Remodel - Smith Residence](/projects/smith-kitchen-remodel)
