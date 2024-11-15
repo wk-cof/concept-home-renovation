@@ -17,4 +17,4 @@ Concept Home Renovation specializes in transforming homes with skill, precision,
 
 > Bringing your vision to life with quality and care.
 
-[Learn More About Our Services](/services){: .btn }
+[Learn More About Our Services]({{ site.baseurl }}/services){: .btn } or [Check out our projects]({{ site.baseurl }}/projects)
